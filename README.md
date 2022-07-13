@@ -13,6 +13,8 @@
 - 🧑‍💻 我使用的技术 :
 
 <p align="center">
+      <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/js/js-icon.svg" alt="js" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
