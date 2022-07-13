@@ -36,20 +36,17 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 52.89 % as on ⏰ 12-Jul-2022
+⏳ **今年已经过了** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 52.89 % as on ⏰ 12-Jul-2022
 
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
+### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> 写过的博客:
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose The Right Database for Your Application](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
-- [SOLID Principles in Java](https://apoorvtyagi.tech/solid-principles-in-java)
-- [Introduction to Asynchronous Processing and Message Queues](https://apoorvtyagi.tech/introduction-to-asynchronous-processing-and-message-queues)
-- [Building Microservices using Spring Boot + HarperDB and Deploying it on AWS](https://apoorvtyagi.tech/building-microservices-using-spring-boot-harperdb-and-deploying-it-on-aws)
-- [Javascript Clean Code Tips &amp; Good Practices](https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices)
+- [EduSoho开发指南 - 数据库](https://www.succes.cool/index.php/archives/23/)
+- [Python 通过图片查找在屏幕中的位置并模拟点击](https://www.succes.cool/index.php/archives/16/)
+- [PyWinAuto学习推荐博客](https://www.succes.cool/index.php/archives/9/)
+- [Docker-Ubuntu20.04-Xfce4桌面环境配置](https://www.succes.cool/index.php/archives/32/)
 <!-- BLOG-POST-LIST:END -->
-
-▶ [... view more](https://apoorvtyagi.tech/)
 
 ---
 
