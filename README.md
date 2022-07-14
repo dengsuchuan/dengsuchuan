@@ -54,7 +54,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> 一些大佬说过的话:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“I’m not one of those who think Bill Gates is the devil.  I simply suspect that if Microsoft ever met up with the devil, it wouldn’t need an interpreter.”— Nicholas Petreley   </i>
+• <i>“XML is not a language in the sense of a programming language any more than sketches on a napkin are a language.”— Charles Simonyi   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
