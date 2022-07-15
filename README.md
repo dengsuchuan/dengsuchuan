@@ -35,17 +35,16 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **今年已经过了** { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 53.42 % as on ⏰ 13-Jul-2022
+⏳ **今年已经过了** { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 53.70 % as on ⏰ 14-Jul-2022
 
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> 写过的博客:
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose The Right Database for Your Application](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
-- [SOLID Principles in Java](https://apoorvtyagi.tech/solid-principles-in-java)
-- [Introduction to Asynchronous Processing and Message Queues](https://apoorvtyagi.tech/introduction-to-asynchronous-processing-and-message-queues)
-- [Building Microservices using Spring Boot + HarperDB and Deploying it on AWS](https://apoorvtyagi.tech/building-microservices-using-spring-boot-harperdb-and-deploying-it-on-aws)
-- [Javascript Clean Code Tips &amp; Good Practices](https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices)
+- [EduSoho开发指南 - 数据库](https://www.succes.cool/index.php/archives/23/)
+- [Python 通过图片查找在屏幕中的位置并模拟点击](https://www.succes.cool/index.php/archives/16/)
+- [PyWinAuto学习推荐博客](https://www.succes.cool/index.php/archives/9/)
+- [Docker-Ubuntu20.04-Xfce4桌面环境配置](https://www.succes.cool/index.php/archives/32/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -53,7 +52,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> 一些大佬说过的话:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“If you automate a mess, you get an automated mess.”— Rod Michael   </i>
+• <i>“I’m not one of those who think Bill Gates is the devil.  I simply suspect that if Microsoft ever met up with the devil, it wouldn’t need an interpreter.”— Nicholas Petreley   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
