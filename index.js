@@ -4,7 +4,7 @@ const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
 const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear)
 const progressBarOfThisYear = generateProgressBar()
 
-let monthNames = ["Jan","Feb","Mar","Apr", "May","Jun","Jul","Aug", "Sep", "Oct","Nov","Dec"];
+let monthNames = ["1","2","3","4", "5","6","7","8", "9", "10","11","12"];
 
 function generateProgressBar() {
     const progressBarCapacity = 30
