@@ -53,7 +53,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> 一些大佬说过的话:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Approximately 70% of virus writers are said to work under contract for organized crime syndicates.</i>
+• <i>The first microprocessor created by Intel was the It was designed for a calculator, and in that time nobody imagined where it would lead.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
