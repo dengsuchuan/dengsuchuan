@@ -54,7 +54,7 @@ const readme = `\
 
 <!--END_SECTION:waka-->
 
-⏳ **今年已经过了** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getFullYear()+'-'+(new Date().getDate())+'-'+ monthNames[new Date().getMonth()}
+⏳ **今年已经过了** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getFullYear()+'-'+(new Date().getDate())+'-'+ monthNames[new Date().getMonth()]}
 
 ---
 
